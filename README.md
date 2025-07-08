@@ -1,6 +1,7 @@
 # Restaurant Orders Dashboard
 
-![Restaurant Orders Dashboard](https://github.com/user-attachments/assets/c812f534-a7a9-4967-a58b-60f420d10d1d)
+![Restaurant Orders Dashboard](https://github.com/user-attachments/assets/86a91c25-5001-40b2-b841-a662c955140b)
+
 
   This dashboard presents the financial data regarding the restaurant's sales for the months of January until March with a total of 5370 transactions.
 The total sales were valued at $160.18 thousand, which included sales from its four main categories specifically Italian which accumulated the most sales at 30.88% ($49.46 thousand), Asian at 29.17% ($46.72 thousand), Mexican at 21.72% ($34.80 thousand), and American having 18.23% ($29.20 thousand). Meanwhile, the total average monthly revenue was calculated to be $53.39 thousand dollars.
